@@ -6,3 +6,8 @@ Nama anggota :
 1. Steven Namora Roha Saragi Napitu    | 22/505930/TK/55405
 2. Yefta Nathanael Wibowo              | 22/492878/TK/53954
 3. Dhimas Nurhanindya Putra            | 22/505433/TK/55309
+
+Berikut dokumentasi dari project ini : 
+link video presentasi : https://drive.google.com/drive/folders/1JagH-Km-F8GFytPeemPc7quVedi7RMDP?usp=sharing
+
+Link Dokumen project (blog spot) : https://bigdaddyprojectrekdat.notion.site/Analisis-Data-untuk-Prediksi-Pola-Cuaca-Khususnya-di-Kota-Yogyakarta-berdasarkan-Platform-X-144fc656a5478084b913c245ac0ad6c1?pvs=4
